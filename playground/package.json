@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.40",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
