@@ -6,7 +6,7 @@ checker, will be exposed!  So please, go through the course, before looking
 into the code too deep.
 
 ### This is the exact code from my front end masters course.
-[The Greatest Course](https://frontendmasters.com/courses/typescript-go-rust)
+[The Greatest Course](https://frontendmasters.com/courses/?q=primeagen)
 
 ### A word of warning
 I intentionally used non standard descriptions or terms for things.  One thing
